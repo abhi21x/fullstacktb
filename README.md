@@ -1,2 +1,2 @@
 # fullstacktb
-This is my first fullstack repo guided  by trailbiz
+This is my first fullstack repo guided  by trailbliz
